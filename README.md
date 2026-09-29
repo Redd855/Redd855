@@ -26,9 +26,9 @@ Most of my experience is with Unity and C#, but I'm also expanding into C++, Qt,
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
 
 ---
-## 🚧 Currently Working On
+## Currently Working On
 
-### 🎵 Music Player
+### Music Player
 
 **Personal Project | June – August 2026**
 
@@ -40,9 +40,9 @@ Most of my experience is with Unity and C#, but I'm also expanding into C++, Qt,
 
 ---
 
-## 🎮 Projects I've Built
+## Projects I've Built
 
-### 🏰 INIT Build — 2D Roguelike
+### INIT Build — 2D Roguelike
 
 **Florida INIT | February – August 2026**
 
@@ -54,7 +54,7 @@ Most of my experience is with Unity and C#, but I'm also expanding into C++, Qt,
 
 ---
 
-### ⚡ Adrenaline Rush
+### Adrenaline Rush
 
 **GMTK Game Jam | July 2026**
 
@@ -66,7 +66,7 @@ Most of my experience is with Unity and C#, but I'm also expanding into C++, Qt,
 
 ---
 
-### 🥽 Vectr-Mon
+### Vectr-Mon
 
 **INIT Build | October – December 2025**
 
@@ -78,7 +78,7 @@ Most of my experience is with Unity and C#, but I'm also expanding into C++, Qt,
 
 ---
 
-### 🧙 Mage Movement
+### Mage Movement
 
 **Personal Project | February – October 2025**
 
@@ -92,7 +92,7 @@ Most of my experience is with Unity and C#, but I'm also expanding into C++, Qt,
 
 ---
 
-### 🕹️ A Hallway But…
+### A Hallway But…
 
 **GMTK Game Jam | July 2025**
 
@@ -106,7 +106,7 @@ Most of my experience is with Unity and C#, but I'm also expanding into C++, Qt,
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 * **Java IT Specialist**
 * **Python MTA**
