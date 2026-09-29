@@ -38,11 +38,13 @@ Most of my experience is with Unity and C#, but I'm also expanding into C++, Qt,
 
 **Technologies:** C++, Qt, JSON
 
+[View the repository →](https://github.com/Redd855/Music-Player)
+
 ---
 
 ## Projects I've Built
 
-### INIT Build — 2D Roguelike
+### INIT Build — 2D Roguelike — Beyond The Depths
 
 **Florida INIT | February – August 2026**
 
@@ -51,6 +53,8 @@ Most of my experience is with Unity and C#, but I'm also expanding into C++, Qt,
 * Continued development for **4 months** beyond the initial prototype, refining gameplay and expanding content before releasing the game publicly on **itch.io**.
 
 **Technologies:** Unity, C#, FMOD, Git, Agile
+
+[Play the game →](https://ozald.itch.io/beyond-the-depths)
 
 ---
 
@@ -64,6 +68,8 @@ Most of my experience is with Unity and C#, but I'm also expanding into C++, Qt,
 
 **Technologies:** Unity, C#, Pathfinding, Finite State Machines
 
+[Play the game →](https://ozald.itch.io/adrenaline-rush)
+
 ---
 
 ### Vectr-Mon
@@ -75,6 +81,8 @@ Most of my experience is with Unity and C#, but I'm also expanding into C++, Qt,
 * Delivered a polished demo **within 9 weeks** and presented the project at INIT Build Demo Day to **50+ attendees**.
 
 **Technologies:** Unity, C#, Meta Quest, XR, Multiplayer Networking
+
+[View the repository →](https://github.com/FelixJ98/Vectr-Mon)
 
 ---
 
