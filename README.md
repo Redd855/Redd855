@@ -1,5 +1,4 @@
 # Daniel Hernandez
----
 
 ## About Me
 
