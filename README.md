@@ -113,18 +113,6 @@ Most of my experience is with Unity and C#, but I'm also expanding into C++, Qt,
 
 ---
 
-## 🚀 Career Goals
-
-My long-term goal is to become a **software engineer specializing in gameplay and interactive systems**, with a particular interest in areas such as **gameplay engineering, AI, systems programming, and game technology**.
-
-I'm looking for opportunities where I can work on technically challenging problems, collaborate with other engineers and designers, and contribute to projects that require both **strong programming fundamentals and creative problem solving**.
-
-In the near future, I want to continue strengthening my skills in **C++, algorithms, software architecture, AI, and large-scale systems**, while continuing to build games and technical projects that demonstrate what I've learned.
-
-Ultimately, I want to become the kind of engineer who can take a complex idea, break it down into individual systems, and turn it into something **functional, scalable, and fun to use**.
-
----
-
 ## 📫 Let's Connect
 
 I'm always interested in meeting other developers, collaborating on projects, and learning from people working in game development and software engineering.
