@@ -25,23 +25,6 @@ Most of my experience is with Unity and C#, but I'm also expanding into C++, Qt,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
 
-### Areas of Experience
-
-* **Gameplay Programming**
-* **Object-Oriented Programming**
-* **Data Structures & Algorithms**
-* **Finite State Machines**
-* **Enemy AI & Pathfinding**
-* **Procedural Generation**
-* **Physics-Based Movement**
-* **Multiplayer Networking**
-* **XR / VR Development**
-* **Systems Programming**
-* **Desktop Application Development**
-* **UI/UX Development**
-* **JSON Data Serialization**
-* **Agile Team Development**
-
 ---
 ## 🚧 Currently Working On
 
